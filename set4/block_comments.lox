@@ -1,0 +1,10 @@
+print "before";
+
+/* brybo smells
+   mamdani
+   /* brybo smells again */
+   mamdani again
+*/
+
+print "after";
+print 8 / 2;
